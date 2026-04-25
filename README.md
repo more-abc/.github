@@ -1,5 +1,5 @@
 # Hello everybody 🤫
-this in more-abc team!
+this is more-abc team!
 
 ## Our repos
 [errortools](https://github.com/more-abc/errortools): A lightweight Python exception handling utility library.
